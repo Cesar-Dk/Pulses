@@ -1,0 +1,73 @@
+!SESSION 2024-12-04 11:06:55.045 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Framework arguments:  -import /home/desarrollo02/prueba_fw/PIPE20_21_600028_2/PIPE20_21_600028/PIPE20_21_600028
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data ./ -import /home/desarrollo02/prueba_fw/PIPE20_21_600028_2/PIPE20_21_600028/PIPE20_21_600028
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-12-04 11:07:20.222
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-12-04 11:07:20.223
+!MESSAGE Log4j2 initialized with config file /home/desarrollo02/prueba_fw/PIPE20_21_600028_2/PIPE20_21_600028/PIPE20_21_600028/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-12-04 11:07:38.707
+!MESSAGE Started RMI Server, listening on port 41338
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-04 11:09:34.467
+!MESSAGE Indexed 'UPDATER' (35 sources, 131 headers) in 13.8 sec: 14,748 declarations; 81,658 references; 3 unresolved inclusions; 69 syntax errors; 178 unresolved names (0.18%)
+!SESSION 2024-12-04 11:10:21.738 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Framework arguments:  -import /home/desarrollo02/prueba_fw/PIPE20_21_600028_2/PIPE20_21_600028
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data ./ -import /home/desarrollo02/prueba_fw/PIPE20_21_600028_2/PIPE20_21_600028
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-12-04 11:10:35.359
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-12-04 11:10:35.361
+!MESSAGE Log4j2 initialized with config file /home/desarrollo02/prueba_fw/PIPE20_21_600028_2/PIPE20_21_600028/PIPE20_21_600028/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-12-04 11:10:47.169
+!MESSAGE Started RMI Server, listening on port 41338
+!SESSION 2024-12-04 11:21:22.228 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Framework arguments:  -import /home/desarrollo02/prueba_fw/PIPE20_21_600028_2/PIPE20_21_600028
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data ./ -import /home/desarrollo02/prueba_fw/PIPE20_21_600028_2/PIPE20_21_600028
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-12-04 11:21:37.356
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-12-04 11:21:37.367
+!MESSAGE Log4j2 initialized with config file /home/desarrollo02/prueba_fw/PIPE20_21_600028_2/PIPE20_21_600028/PIPE20_21_600028/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-12-04 11:21:50.499
+!MESSAGE Started RMI Server, listening on port 41338
+
+!ENTRY org.eclipse.core.jobs 2 2 2024-12-04 11:22:08.190
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ui.internal.Workbench$39
+!SESSION 2024-12-04 11:22:35.431 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Framework arguments:  -import /home/desarrollo02/prueba_fw/PIPE20_21_600028_2/PIPE20_21_600028
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data ./ -import /home/desarrollo02/prueba_fw/PIPE20_21_600028_2/PIPE20_21_600028
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-12-04 11:22:47.365
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-12-04 11:22:47.367
+!MESSAGE Log4j2 initialized with config file /home/desarrollo02/prueba_fw/PIPE20_21_600028_2/PIPE20_21_600028/PIPE20_21_600028/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-12-04 11:22:59.216
+!MESSAGE Started RMI Server, listening on port 41338
+
+!ENTRY org.eclipse.core.jobs 2 2 2024-12-04 11:23:09.994
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ui.internal.Workbench$39
